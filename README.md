@@ -1,6 +1,8 @@
 
 # AI Snake Game with Q-Learning
 
+[Live Demo](https://ai-snake-kfwm.onrender.com)   
+
 This project implements a classic Snake game with an AI agent that learns to play using **Q-Learning**, a reinforcement learning algorithm. The game features a graphical interface using **SDL** and can be compiled for both native execution and **web deployment via Emscripten**.
 
 ---
